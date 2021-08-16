@@ -1,0 +1,96 @@
+*{
+  margin: 0
+}
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 100%;
+  max-width: 100%;
+
+}
+
+#logo-lim {
+  text-align: center;
+  margin: auto;
+  width: 100px
+
+}
+
+
+
+.corpo {
+}
+
+
+.box {
+  height: 600px;
+  width: 1000px;
+  background-color: #5556;
+  margin: auto;
+  margin-top: auto;
+  text-align: center;
+  border-radius: 20px;
+
+}
+
+
+#title{
+  color: #32CD32
+}
+
+
+
+.rettangolo-verde {
+  height: 25px;
+  width: 800px;
+  background-color: #32CD32;
+  text-align: center;
+  margin: auto;
+  margin-top: auto;
+}
+
+.box-monopattini{
+  width: 800px;
+  text-align: left;
+  margin: auto;
+  margin-top: 5px
+}
+
+.nome-monopattino{
+  display: inline-block;
+  color: white
+}
+.descrizione-monopattino{
+  color: white
+}
+
+.stato-carica{
+  color: white
+}
+
+.barra-carica-30{
+  height: 25px;
+  width: 300px;
+  background-color: orange;
+  margin-top: auto;
+  border-radius: 10px;
+}
+
+.barra-carica-70{
+  height: 25px;
+  width: 600px;
+  background-color: #32CD32;
+  margin-top: auto;
+  border-radius: 10px;
+}
+
+.barra-carica-10{
+  height: 25px;
+  width: 150px;
+  background-color: red;
+  margin-top: auto;
+  border-radius: 10px;
+}
